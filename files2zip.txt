@@ -1,0 +1,12 @@
+data
+src
+.config
+app.manifest
+build.sh
+Directory.Build.props
+files2zip.txt
+mkmg.sh
+README.md
+tgpad.csproj
+zipper.py
+.gitignore

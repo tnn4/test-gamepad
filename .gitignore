@@ -1,0 +1,6 @@
+attic
+# https://stackoverflow.com/questions/10712555/gitignore-all-files-of-extension-in-directory
+# Ignore all build artifacts
+out/
+**/bin
+**/obj
